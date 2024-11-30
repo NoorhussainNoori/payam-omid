@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with React and MUI + Firebase with Firebase Auth, for a educational center which teaches different subjects completely free of cost for students.
 
 ## Available Scripts
 
